@@ -1,7 +1,7 @@
 # pSarveshKr
 Senior Salesforce Developer | Java & DSA | Exploring AI
 
-### Hi, I'm Sarvesh! 🐱‍💻
+### Hi, I'm Sarvesh! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px" />
 
 Senior Salesforce Developer | [🌐 Portfolio](https://sarveshsfdc.site) | [💼 LinkedIn](https://www.linkedin.com/in/sarvesh-kumar-676a79167)
 
