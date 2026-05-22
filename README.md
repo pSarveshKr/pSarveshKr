@@ -1,7 +1,7 @@
 # pSarveshKr
 Senior Salesforce Developer | Java & DSA | Exploring AI
 
-### Hi, I'm Sarvesh! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="35px">
+### Hi, I'm Sarvesh! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9ce6-4a74-a70c-405bd228e7fd.gif" width="35" />
 
 Senior Salesforce Developer | [🌐 Portfolio](https://sarveshsfdc.site) | [💼 LinkedIn](https://www.linkedin.com/in/sarvesh-kumar-676a79167)
 
